@@ -89,7 +89,9 @@ button, .btn {
 }
 
 .image-cropper {
-  max-height: 150px;
+  display: flex;
+  align-items: center;
+  max-height: 300px;
   width: 100%;
   overflow: hidden;
 }
