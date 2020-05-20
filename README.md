@@ -3,6 +3,9 @@
 
 # Tutor Marketplace
 
+Heroku deployment: https://tutor-marketplace-sei.herokuapp.com/
+
+
 Tutor Marketplace is an app that connects students with teachers to facilitate online learning.  It is free to join and create your profile, so you pay nothing until you find the lesson that you're looking for. Users can log in as students or as teachers, and their profile and functions will vary depending on which.  Teachers can add lessons and availability, while students can select teachers and lessons. All lessons are currently one-on-one. 
 
 ## Technologies used
